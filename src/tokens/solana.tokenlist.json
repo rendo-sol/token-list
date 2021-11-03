@@ -21365,7 +21365,7 @@
     "instagram": "https://instagram.com/bricksproperties"
   }
 }
-    {
+    ,{
       "chainId": 101,
       "address": "rendopHqu4oE94AXjEEtporr1xW8Fsp4bZDccyMTYzU",
       "symbol": "RENDO",
@@ -21379,4 +21379,4 @@
         "website": "https://rendo.club",
         "twitter": "https://twitter.com/rendo",
       }
-    },
+    }
