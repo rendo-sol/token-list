@@ -536,7 +536,8 @@
       "tags": [
         "utility-token",
         "capital-token"
-      ],
+      ]
+      ,
       "extensions": {
         "website": ""
       }
@@ -552,7 +553,6 @@
       "extensions": {
         "website": "https://rendo.club"        
       }
-    },
     {
       "chainId": 101,
       "address": "2Dzzc14S1D7cEFGJyMZMACuoQRHVUYFhVE74C5o8Fwau",
