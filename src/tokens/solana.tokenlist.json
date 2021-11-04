@@ -57,6 +57,18 @@
   },
   "timestamp": "2021-03-03T19:57:21+0000",
   "tokens": [
+  {
+      "chainId": 101,
+      "address": "rendopHqu4oE94AXjEEtporr1xW8Fsp4bZDccyMTYzU",
+      "symbol": "RENDO",
+      "name": "rendo.club",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/rendopHqu4oE94AXjEEtporr1xW8Fsp4bZDccyMTYzU/logo.png",
+      "tags": ["utility-token"],
+      "extensions": {
+        "website": "https://rendo.club"        
+      }
+    },
 	{
 		"chainId": 102,
 		"address": "8ZY7EkwN7LxifYvvrQDbpjqxkrjHUFMwWgq8fupNNvub",
