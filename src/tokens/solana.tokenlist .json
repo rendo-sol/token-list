@@ -536,8 +536,8 @@
       "tags": [
         "utility-token",
         "capital-token"
-      ]
-    },{"chainId": 101,"address": "rendopHqu4oE94AXjEEtporr1xW8Fsp4bZDccyMTYzU","symbol": "RENDO","name": "rendo.club","decimals": 9,"logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/rendopHqu4oE94AXjEEtporr1xW8Fsp4bZDccyMTYzU/logo.png","tags": ["utility-token"],
+      ],{"chainId": 101,"address": "rendopHqu4oE94AXjEEtporr1xW8Fsp4bZDccyMTYzU","symbol": "RENDO","name": "rendo.club","decimals": 9,"logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/rendopHqu4oE94AXjEEtporr1xW8Fsp4bZDccyMTYzU/logo.png","tags": ["utility-token"],
+    }
     {
       "chainId": 101,
       "address": "2Dzzc14S1D7cEFGJyMZMACuoQRHVUYFhVE74C5o8Fwau",
