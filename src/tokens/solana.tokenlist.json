@@ -14841,6 +14841,18 @@
     },
     {
       "chainId": 101,
+      "address": "rendopHqu4oE94AXjEEtporr1xW8Fsp4bZDccyMTYzU",
+      "symbol": "RENDO",
+      "name": "rendo.club",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/rendopHqu4oE94AXjEEtporr1xW8Fsp4bZDccyMTYzU/logo.png",
+      "tags": ["utility-token"],
+      "extensions": {
+        "website": "https://rendo.club"        
+      }
+    },
+    {
+      "chainId": 101,
       "address": "HwzkXyX8B45LsaHXwY8su92NoRBS5GQC32HzjQRDqPnr",
       "symbol": "SAMO-RAY",
       "name": "Raydium LP Token V4 (SAMO-RAY)",
